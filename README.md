@@ -1,30 +1,14 @@
 <h1>
     <p align="center">
     <strong>
-    Brain Shaker's Data Structures C library
+    C Data Structures
     </strong>
     </p>
 </h1>
 
 
 
- <p align="center">
- <img src="assets/BrainShaker.jpg" alt="BrainShaker" width="200" />
- <br>
- <br>
- <a href="LICENSE">Copyright (c)
-    </a>
-    2022
-    <a href="https://github.com/BrainShakerClub">
-        <b>Brain Shaker Computer Club</b>
-        <br>
-    </a> 
-</p>
-<br>
-
 > [**Antonis Kalantzis**](https://github.com/tonykalantzis)
-
-> [**Giorgos Sofronas**](https://github.com/giorgossofronas)
 
 > [**Mixalis Kostagiannis**](https://github.com/MikeRaphK)
  
